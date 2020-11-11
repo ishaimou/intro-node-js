@@ -8,7 +8,8 @@
     "jest": "^23.6.0"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node ./exercises/api/server.js"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
